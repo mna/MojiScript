@@ -1,5 +1,5 @@
 {
-  "app.js": "/static/js/app.8e9814ec.js",
+  "app.js": "/static/js/app.c84007cd.js",
   "combinators-i.js": "/static/js/combinators-i.5306398d.js",
   "combinators-k.js": "/static/js/combinators-k.1ebf0eab.js",
   "combinators-s.js": "/static/js/combinators-s.917b0220.js",
@@ -31,16 +31,16 @@
   "logic-cond.js": "/static/js/logic-cond.d6288025.js",
   "logic-if-else.js": "/static/js/logic-if-else.d3d65413.js",
   "logic-if-error.js": "/static/js/logic-if-error.dcc47b98.js",
-  "logic-unless.js": "/static/js/logic-unless.768eba5f.js",
-  "logic-when.js": "/static/js/logic-when.0889423c.js",
-  "runtime~app.js": "/static/js/runtime~app.f1faaae1778b17738ffb.js",
+  "logic-unless.js": "/static/js/logic-unless.041db410.js",
+  "logic-when.js": "/static/js/logic-when.49d94ca5.js",
+  "runtime~app.js": "/static/js/runtime~app.7ca059c2eed959a7d063.js",
   "string-append.js": "/static/js/string-append.55402cf9.js",
   "string-prepend.js": "/static/js/string-prepend.56d5276b.js",
   "string-replace.js": "/static/js/string-replace.b74bebc9.js",
   "string-template.js": "/static/js/string-template.e791b8b6.js",
   "styleguide.js": "/static/js/styleguide.3ef4c8a8.js",
   "threading-sleep.js": "/static/js/threading-sleep.1e1aae43.js",
-  "type-is.js": "/static/js/type-is.510a2763.js",
+  "type-is.js": "/static/js/type-is.db7d50cd.js",
   "vendors.js": "/static/js/vendors.a6c1be95.js",
   "index.html": "/index.html"
 }
